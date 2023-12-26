@@ -1,6 +1,6 @@
 
 <!--
-**vahe-davtyan/vahe-davtyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a junior artificial intelligence engineer proficient in Python and Machine Learning, with expertise in Django, Django REST framework, MySQL, AWS, Docker, and other related technologies. I possess hands-on experience working with databases and developing various web applications. My primary focus lies in machine learning, and I am committed to continuous learning and skill enhancement in this dynamic field.
 
 Here are some ideas to get you started:
 
