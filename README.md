@@ -1,7 +1,5 @@
 
 <!--
-I am a junior artificial intelligence engineer proficient in Python and Machine Learning, with expertise in Django, Django REST framework, MySQL, AWS, Docker, and other related technologies. I possess hands-on experience working with databases and developing various web applications. My primary focus lies in machine learning, and I am committed to continuous learning and skill enhancement in this dynamic field.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,7 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-vahe davtyan 10.10.2002
+I am a junior artificial intelligence engineer proficient in Python and Machine Learning, with expertise in Django, Django REST framework, MySQL, AWS, Docker, and other related technologies. I possess hands-on experience working with databases and developing various web applications. My primary focus lies in machine learning, and I am committed to continuous learning and skill enhancement in this dynamic field.
+
 
 
 ## 🌐 Socials:
