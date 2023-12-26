@@ -20,7 +20,7 @@ I am a junior artificial intelligence engineer proficient in Python and Machine 
 <a href="https://www.linkedin.com/in/vahe-davtyan-031710285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eric-yeghiazaryan-356169271" height="30" width="40" /></a>
 </p>
 # 💻 Tech Stack:
-![Java](<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eric-yeghiazaryan-356169271" height="30" width="40" />
+(<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eric-yeghiazaryan-356169271" height="30" width="40" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vahe-davtyan&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
